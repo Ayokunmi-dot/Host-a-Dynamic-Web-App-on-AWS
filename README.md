@@ -107,7 +107,7 @@ sudo service httpd restart
 ```
 
 ### Architecture Diagram
-![Architecture Diagram](architecture/reference-diagram.png)
+![Architecture Diagram](Architecture Diagram.png)
 
 ## Deployment Verification
 1. Ensure EC2 instances are running and accessible.
