@@ -96,18 +96,10 @@ sudo vi .env
 sudo service httpd restart
 ```
 
-## Repository Structure
-```
-.
-├── scripts/
-│   ├── install_dynamic_web_app.sh
-├── architecture/
-│   ├── reference-diagram.png
-├── README.md
-```
+
 
 ### Architecture Diagram
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](Dynamic Web App on AWS.png)
 
 ## Deployment Verification
 1. Ensure EC2 instances are running and accessible.
