@@ -99,7 +99,7 @@ sudo service httpd restart
 
 
 ### Architecture Diagram
-![Architecture Diagram](Dynamic Web App on AWS.png)
+![Architecture Diagram](Dynamic-Web-App-on-AWS.png)
 
 ## Deployment Verification
 1. Ensure EC2 instances are running and accessible.
